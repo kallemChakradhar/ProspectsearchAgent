@@ -105,7 +105,7 @@ Step-by-step explanation:
     Setup
 Clone the repository:
 
-    git clone https://github.com/yourusername/ProspectSearchAgent.git
+    git clone https://github.com/kallemChakradhar/ProspectsearchAgent.git
     cd ProspectSearchAgent
 
 Create a virtual environment:
