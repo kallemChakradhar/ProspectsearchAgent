@@ -1,0 +1,23 @@
+# Core async and HTTP libraries
+aiohttp
+httpx
+requests
+
+# Config and data handling
+PyYAML
+pandas
+python-dotenv
+
+# Data cleaning and similarity
+fuzzywuzzy
+rapidfuzz
+
+# Optional (for fuzzy matching speed)
+python-Levenshtein
+
+# Logging and debugging
+rich
+
+# If you later decide to use LangChain (optional)
+# langchain
+# openai
